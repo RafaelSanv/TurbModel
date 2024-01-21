@@ -1,9 +1,21 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 20 18:01:47 2024
+""" --------------------------------------------------------------------------------------------------------------
+#   Code created by: Rafaël Sanvicente (rafael.sanvicente.116@cranfield.ac.uk) for the turbulence modeling assignment
+#                   part of the MSc in CFD course.
+#
+#    Formats the .dat files of fluent ASCII export to match the input format required by P.Hoyos matlab script
+#    Goes through all files and folders inside the script repository and deletes the first row and column of the files
+#    and saves a copy with the extension '_modified'
+#
+#   LICENCE:
+#   This script is free of use for any student / research related work, NON-COMMERCIAL USE ONLY.
+#   If you are brought to use this project, the author kindly asks for this work to be referenced.
+#   Feel free to improve this file as you wish and implement further capabilities 
+#
+#   Created: 01/2024
+#   V1.0
+ ---------------------------------------------------------------------------------------------------------------- """
 
-@author: rsanv
-"""
 
 import os
 
