@@ -1,5 +1,5 @@
 # TurbModel
-Private repository for the turbullence modelling assignment
+Repository for the turbullence modelling assignment
 ![image](https://github.com/RafaelSanv/TurbModel/assets/104560399/f0071ce6-61e1-4379-bcd7-103440a2d71e)
 Figure 1:  Schematic of the wind tunnel circuit and the section of interest including the test section. In this closed-circuit tunnel, air flow is driven by a fan placed in the low-speed leg of the tunnel. From the fan, air flows towards the settling chamber through two turning vanes. In the settling chamber, air passes through a porous screen to weaken secondary currents and the associated asymmetric flow field caused by the turning vanes. Thereafter, air rushes through a converging section to arrive to the test section where laminar-turbulent transition is triggered by a step. The section of interest includes part of the settling chamber and the entirety of the test section with an extruded region before the outlet replacing the diffuser.
 
